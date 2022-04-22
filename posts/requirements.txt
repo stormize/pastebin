@@ -56,7 +56,7 @@ pygobject==3.26.1
 PyICU==1.9.8
 pyldap==2.4.28
 pyparsing==2.1.10
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyserial==3.1.1
 python-apt==1.6.3+ubuntu1
 python-dateutil==2.8.0
