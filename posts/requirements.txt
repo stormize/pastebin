@@ -34,7 +34,7 @@ mock==2.0.0
 mugshot==0.4.0
 netifaces==0.10.4
 num2words==0.5.6
-numpy==1.16.4
+numpy==1.22.0
 odoo==12.0.post20190508
 ofxparse==0.16
 olefile==0.46
